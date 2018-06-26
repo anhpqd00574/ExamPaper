@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\ApplicationProgramming\ApplicationProgramming\obj\Debug\netcoreapp2.0\ApplicationProgramming.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\ApplicationProgramming\ApplicationProgramming\obj\Debug\netcoreapp2.0\ApplicationProgramming.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ApplicationProgramming\ApplicationProgramming\obj\Debug\netcoreapp2.0\ApplicationProgramming.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ApplicationProgramming\ApplicationProgramming\obj\Debug\netcoreapp2.0\ApplicationProgramming.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ApplicationProgramming\ApplicationProgramming\bin\Debug\netcoreapp2.0\ApplicationProgramming.deps.json
+C:\Users\DELL\source\repos\ApplicationProgramming\ApplicationProgramming\bin\Debug\netcoreapp2.0\ApplicationProgramming.runtimeconfig.json
+C:\Users\DELL\source\repos\ApplicationProgramming\ApplicationProgramming\bin\Debug\netcoreapp2.0\ApplicationProgramming.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\ApplicationProgramming\ApplicationProgramming\bin\Debug\netcoreapp2.0\ApplicationProgramming.dll
+C:\Users\DELL\source\repos\ApplicationProgramming\ApplicationProgramming\bin\Debug\netcoreapp2.0\ApplicationProgramming.pdb
+C:\Users\DELL\source\repos\ApplicationProgramming\ApplicationProgramming\obj\Debug\netcoreapp2.0\ApplicationProgramming.dll
+C:\Users\DELL\source\repos\ApplicationProgramming\ApplicationProgramming\obj\Debug\netcoreapp2.0\ApplicationProgramming.pdb
